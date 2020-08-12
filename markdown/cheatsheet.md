@@ -1,4 +1,5 @@
 <!-- Headings -->
+### Original [Cheatsheet](https://gist.github.com/bradtraversy/547a7bbf35ffba1561706e161a50b05a) from Traverse media
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -12,9 +13,9 @@
 _This text_ is italic
 
 <!-- Strong -->
-**This text** is italic
+**This text** is strong
 
-__This text__ is italic
+__This text__ is strong
 
 <!-- Strikethrough -->
 ~~This text~~ is strikethrough
@@ -28,9 +29,9 @@ ___
 > This is a quote
 
 <!-- Links -->
-[Traversy Media](http://www.traversymedia.com)
+Gowtham Prudhvi's [website](http://gowthamp.com)
 
-[Traversy Media](http://www.traversymedia.com "Traversy Media")
+Gowtham Prudhvi's [website](http://gowthamp.com "gowthamp.com")
 
 <!-- UL -->
 * Item 1
@@ -53,30 +54,43 @@ ___
 <!-- Github Markdown -->
 
 <!-- Code Blocks -->
+---
+**bash**
 ```bash
   npm install
 
   npm start
 ```
-
+---
+**javascript**
 ```javascript
   function add(num1, num2) {
     return num1 + num2;
   }
 ```
-
+___
+**python**
 ```python
   def add(num1, num2):
     return num1 + num2
 ```
-
+___
+**C++**
+```cpp
+  int add(int num1, int num2){
+  	return num1 + num2;
+  }
+```
+___
 <!-- Tables -->
 | Name     | Email          |
 | -------- | -------------- |
-| John Doe | john@gmail.com |
+| Gowtham Prudhvi | v.g.prudhvi38@gmail.com |
 | Jane Doe | jane@gmail.com |
 
 <!-- Task List -->
-* [x] Task 1
-* [x] Task 2
-* [ ] Task 3
+* [x] markdown
+* [ ] DL.ai
+* [ ] pandas
+* [ ] Resume
+* [ ] Website
