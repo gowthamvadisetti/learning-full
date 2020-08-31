@@ -1,3 +1,3 @@
+## PyTorch practice
 ### [Original repo](https://github.com/gowtham-prudhvi/pytorch-init)
-# pytorch-init
-pytorch practice
+#### [Link](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) for original documentation
